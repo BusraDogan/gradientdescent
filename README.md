@@ -1,6 +1,8 @@
 # gradientdescent
 Machine Learning Gradient Descent Algorithm implementing in Octave
 
+10 adımda Gradient Descenti anlamak !
+
 Amaç:Hipotezi iyileştimek için kullanılması daha iyi olan teta değerini bularak en düşük maliyeti (tahminlemede hata miktarını - Error in prediction) hesaplamak.
 
 1.)Verilere uygun fonksiyona karar verilir.(h= hipotez function) 
@@ -22,3 +24,5 @@ Amaç:Hipotezi iyileştimek için kullanılması daha iyi olan teta değerini bu
 9.)Yeni teta değerleri hesaplanır.(Bu aşamada algoritmanın arkasında türev alma işlemleri uygulanır)
 
 10.)5. adım yeniden uygulanır. "J" maliyet fonksiyonu azalmaya başlarsa iterasyon sonlandırılır.
+
+In octave just "Run" the code.
